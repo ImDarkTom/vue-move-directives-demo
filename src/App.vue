@@ -80,7 +80,7 @@ function getDurationMs() {
       </div>
     </div>
     <div class="flex flex-col *:w-fit pt-12 items-center text-slate-600 dark:text-slate-300">
-      <span class="mb-6"><kbd>Shift + Click</kbd> to move card backwards.</span>
+      <span class="mb-6 opacity-75"><kbd>Shift + Click</kbd> to move card backwards.</span>
 
       <code class="bg-slate-500/25 p-1 rounded-md mb-2 text-lg">vue-move-directives</code>
       <span class="mb-4 text-lg">View on <a href="https://npmjs.org/package/vue-move-directives" target="_blank" class="text-[#CC3534]/85">NPM</a> | <a href="https://github.com/ImDarkTom/vue-move" class="text-[#4183C4]/85" target="_blank">GitHub</a></span>
